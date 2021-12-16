@@ -7,7 +7,6 @@ const cryptoApiHeaders = {
 
 const baseUrl = '';
 
-
 const createRequest = (url) => ({ url, headers: cryptoApiHeaders });
 
 export const cryptoApi = createApi({
