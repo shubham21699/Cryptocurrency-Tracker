@@ -26,14 +26,14 @@ const Homepage = () => {
                 <Col span={12}> <Statistic title='Total Markets'  value={millify(globalStats.totalMarkets)} /> </Col>
             </Row>
             <div className='home-heading-container'>
-                <Title level={2} className='home-title'>Top 10 Cryptocurrencies in the world</Title>
-                <Title level={3} className='show-more'><Link to='/cryptocurrencies'>Show More</Link></Title>
+                <Title level={2} className='home-title'>Top Cryptocurrencies in the world</Title>
+                <Title level={5} className='show-more'><Link to='/cryptocurrencies'>Show More</Link></Title>
             </div>
             {/* simplified will help to show particular amount of value like here  it will show only top 10 cryptocurrencies */}
             <Cryptocurrencies simplified />
             <div className='home-heading-container'>
                 <Title level={2} className='home-title'>Latest Crypto News</Title>
-                <Title level={3} className='show-more'><Link to='/news'>Show More</Link></Title>
+                <Title level={5} className='show-more'><Link to='/news'>Show More</Link></Title>
             </div>
             <News simplified />
         </>
