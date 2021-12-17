@@ -39,8 +39,8 @@ const App = () => {
         </Layout>
         <div className="footer">
           <Typography.Title level={5} style={{ color: 'white', textAlign: 'center'}}>
-            {/* Crypto Tracker<br /> */}
-            Crypto Tracker | All right reserved
+            Cryptocurrency Tracker | All rights reserved
+            <p style={{color: 'white', fontSize: '12px', fontStyle: 'italic'}}>( Get all the latest cryptocurrency data and details here only )</p>
           </Typography.Title>
           <Space>
             <Link to='/'>Home</Link>
