@@ -18,18 +18,19 @@ const CryptoDetails = () => {
     const [timePeriod, setTimePeriod] = useState('7d'); //Here 7d means 7 days of time period
     const { data, isFetching } = useGetCryptoDetailsQuery(coinId);
     const { data: coinHistory } = useGetCryptoHistoryQuery({ coinId, timePeriod });
-    // console.log(data);
+    console.log(data);
     if(isFetching) return <Loader />;
 
     const cryptoDetails = data?.data?.coin;
-    const time = ['3h', '24h', '7d', '30d', '1y', '3m', '3y', '5y'];
+    const time = ['24h', '7d', '30d', '1y', '5y'];
+    // const time = ['3h', '24h', '7d', '30d', '1y', '3m', '3y', '5y'];
 
   const stats = [
     { title: 'Price to USD', value: `$ ${cryptoDetails.price && millify(cryptoDetails.price)}`, icon: <DollarCircleOutlined /> },
     { title: 'Rank', value: cryptoDetails.rank, icon: <NumberOutlined /> },
-    { title: '24h Volume', value: `$ ${cryptoDetails.volume && millify(cryptoDetails.volume)}`, icon: <ThunderboltOutlined /> },
+    { title: '24 hour Volume', value: `$ ${cryptoDetails.volume && millify(cryptoDetails.volume)}`, icon: <ThunderboltOutlined /> },
     { title: 'Market Cap', value: `$ ${cryptoDetails.marketCap && millify(cryptoDetails.marketCap)}`, icon: <DollarCircleOutlined /> },
-    { title: 'All-time-high(daily avg.)', value: `$ ${millify(cryptoDetails.allTimeHigh.price)}`, icon: <TrophyOutlined /> },
+    { title: 'All-time-high (Daily Average)', value: `$ ${millify(cryptoDetails.allTimeHigh.price)}`, icon: <TrophyOutlined /> },
   ];
 
   const genericStats = [
@@ -126,7 +127,7 @@ const CryptoDetails = () => {
                                 <Title level={5} className='link-name'>
                                     {link.type}
                                 </Title>
-                                <a href={link.urk} target='_blank' rel='noreferrer'>
+                                <a href={link.url} target='_blank' rel='noreferrer'>
                                     {link.name}
                                 </a>
                             </Row>

@@ -42,7 +42,7 @@
   --bgPrimary: #fff;
   --bgSecondary: #f9f9f9;
   /* --pink: #0071bd; */
-  --pink: #3EB489;
+  --pink: #3eb489;
   --light-blue: #e6f7ff;
   --border: #d9d9d9;
 }
@@ -332,6 +332,10 @@ a:hover {
 .news-card {
   min-height: 300px !important;
 }
+.news-card:hover {
+  box-shadow: 0 0.5em 0.5em -0.5em var(--hover);
+  transform: translateY(-0.1em);
+}
 .news-image-container {
   display: flex !important;
   justify-content: space-between !important;
@@ -400,6 +404,11 @@ a:hover {
 .crypto-card {
   min-width: 250px;
 }
+.crypto-card:hover {
+  box-shadow: 0 0.5em 0.5em -0.5em var(--hover);
+  transform: translateY(-0.1em);
+  
+}
 .crypto-card .crypto-image {
   width: 35px;
 }
@@ -414,5 +423,4 @@ a:hover {
   flex-direction: column;
   padding: 20px;
   align-items: center;
-  position:sticky;
 }
