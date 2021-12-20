@@ -6,6 +6,7 @@
 ### Cryptocurrencies Page:
 All the cryptocurrencies will be shown here and we can also search for the particular crypto in the input bar we want to look for. 
 <br />
+<br />
 <img width="871" alt="Screenshot 2021-12-20 at 6 55 10 PM" src="https://user-images.githubusercontent.com/71596140/146773927-78a9531b-a5a6-4575-8370-3dbddd6bdc37.png">
 
 ### Particular Cryptocurrency Data:
