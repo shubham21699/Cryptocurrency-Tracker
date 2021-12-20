@@ -51,7 +51,7 @@ const CryptoDetails = () => {
                     </Title>
                     <p>
                         {cryptoDetails.name} live price in $US.
-                        View value Statistics, Market Cap and Supply.
+                        View its Statistics, Market Cap and Supply.
                     </p>
                 </Col>
                 <Select
