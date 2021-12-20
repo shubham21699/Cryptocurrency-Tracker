@@ -17,9 +17,7 @@
 <img width="870" alt="Screenshot 2021-12-20 at 6 58 12 PM" src="https://user-images.githubusercontent.com/71596140/146774293-9a6a5e55-9923-4aef-b9b2-f5f0c34bb35e.png">
 
 ## Mobile View:
-<img width="307" alt="Screenshot 2021-12-20 at 7 02 45 PM" src="https://user-images.githubusercontent.com/71596140/146774901-930bfccc-2cf3-4107-b484-d2eb661e0592.png">
-
-<img width="307" alt="Screenshot 2021-12-20 at 7 03 33 PM" src="https://user-images.githubusercontent.com/71596140/146775006-af01ee19-fc05-44e0-a091-2166b548ea36.png">
+<img width="307" alt="Screenshot 2021-12-20 at 7 02 45 PM" src="https://user-images.githubusercontent.com/71596140/146774901-930bfccc-2cf3-4107-b484-d2eb661e0592.png"> <img width="307" alt="Screenshot 2021-12-20 at 7 03 33 PM" src="https://user-images.githubusercontent.com/71596140/146775006-af01ee19-fc05-44e0-a091-2166b548ea36.png">
 
 <img width="305" alt="Screenshot 2021-12-20 at 7 04 22 PM" src="https://user-images.githubusercontent.com/71596140/146775127-6628c568-e5b9-41b3-877e-5ab425b39c00.png">
 
