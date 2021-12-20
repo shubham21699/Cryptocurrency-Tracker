@@ -11,14 +11,20 @@ All the cryptocurrencies will be shown here and we can also search for the parti
 
 ### Particular Cryptocurrency Data:
 All the data of a single crypto will be shown here. After clicking on any of the crypto shown in the cryptocurrencies page, it will be reditrected to this page where all its data will be shown.
+<br />
+<br />
 <img width="611" alt="Screenshot 2021-12-20 at 7 01 05 PM" src="https://user-images.githubusercontent.com/71596140/146774675-ca42b737-663d-4e12-a22d-1db189523dd5.png"> <img width="612" alt="Screenshot 2021-12-20 at 7 01 52 PM" src="https://user-images.githubusercontent.com/71596140/146774773-a5016e7f-926a-4053-82fd-2c104b27c12d.png">
 
 ### Cryptocurrencies News Page:
 All the news will be shown in this page and we can also select the particular crypto in the selection tab of which news we want to see here.
+<br />
+<br />
 <img width="870" alt="Screenshot 2021-12-20 at 6 56 46 PM" src="https://user-images.githubusercontent.com/71596140/146774101-05bf5c53-1246-4f07-813d-5177c04913a9.png">
 
 ### Crypto Exchanges Page:
 All the exchanges will be shown in this page.
+<br />
+<br />
 <img width="870" alt="Screenshot 2021-12-20 at 6 57 33 PM" src="https://user-images.githubusercontent.com/71596140/146774195-2b05c97f-9518-4923-b372-442a76b11a03.png">
 
 <img width="870" alt="Screenshot 2021-12-20 at 6 58 12 PM" src="https://user-images.githubusercontent.com/71596140/146774293-9a6a5e55-9923-4aef-b9b2-f5f0c34bb35e.png">
