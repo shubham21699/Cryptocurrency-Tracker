@@ -10,7 +10,7 @@ All the cryptocurrencies will be shown here and we can also search for the parti
 <img width="871" alt="Screenshot 2021-12-20 at 6 55 10 PM" src="https://user-images.githubusercontent.com/71596140/146773927-78a9531b-a5a6-4575-8370-3dbddd6bdc37.png">
 
 ### Particular Cryptocurrency Data:
-All the data of a single crypto will be shown here. After clicking on any of the crypto shown in the cryptocurrencies page, it will be reditrected to this page where all its data will be shown.
+All the data of a single crypto will be shown here. After clicking on any of the crypto shown in the cryptocurrencies page, it will be redirected to this page where all its data will be shown.
 <br />
 <br />
 <img width="611" alt="Screenshot 2021-12-20 at 7 01 05 PM" src="https://user-images.githubusercontent.com/71596140/146774675-ca42b737-663d-4e12-a22d-1db189523dd5.png"> <img width="612" alt="Screenshot 2021-12-20 at 7 01 52 PM" src="https://user-images.githubusercontent.com/71596140/146774773-a5016e7f-926a-4053-82fd-2c104b27c12d.png">
