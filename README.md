@@ -4,7 +4,7 @@
 <img align="center" width="799" alt="Screenshot 2021-12-20 at 6 53 35 PM" src="https://user-images.githubusercontent.com/71596140/146773737-953d341f-d48e-4d81-8f1d-6d8c42bd8b37.png">
 
 ### Currency Converter Page:
-We can convert crptocurrency like bitcoin, ethereum etc. to USD and also get its exchange rate.
+We can convert cryptocurrencies like bitcoin, ethereum etc. to USD and also get its exchange rate value.
 <br />
 <br />
 <img width="1438" alt="Screenshot 2021-12-25 at 1 04 51 AM" src="https://user-images.githubusercontent.com/71596140/147370331-78aac28b-e262-41b7-be9d-8ce4a7a959c4.png">
