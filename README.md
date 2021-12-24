@@ -3,6 +3,13 @@
 
 <img align="center" width="799" alt="Screenshot 2021-12-20 at 6 53 35 PM" src="https://user-images.githubusercontent.com/71596140/146773737-953d341f-d48e-4d81-8f1d-6d8c42bd8b37.png">
 
+### Currency Converter Page:
+We can convert crptocurrency like bitcoin, ethereum etc. to USD and also get its exchange rate.
+<br />
+<br />
+<img width="1438" alt="Screenshot 2021-12-25 at 1 04 51 AM" src="https://user-images.githubusercontent.com/71596140/147370331-78aac28b-e262-41b7-be9d-8ce4a7a959c4.png">
+
+
 ### Cryptocurrencies Page:
 All the cryptocurrencies will be shown here and we can also search for the particular crypto in the input bar we want to look for. 
 <br />
@@ -30,5 +37,6 @@ All the exchanges will be shown in this page.
 <img align="center" width="870" alt="Screenshot 2021-12-20 at 6 58 12 PM" src="https://user-images.githubusercontent.com/71596140/146774293-9a6a5e55-9923-4aef-b9b2-f5f0c34bb35e.png">
 
 ## Mobile View:
-<img width="307" alt="Screenshot 2021-12-20 at 7 02 45 PM" src="https://user-images.githubusercontent.com/71596140/146774901-930bfccc-2cf3-4107-b484-d2eb661e0592.png"> <img width="307" alt="Screenshot 2021-12-20 at 7 03 33 PM" src="https://user-images.githubusercontent.com/71596140/146775006-af01ee19-fc05-44e0-a091-2166b548ea36.png"> <img width="305" alt="Screenshot 2021-12-20 at 7 04 22 PM" src="https://user-images.githubusercontent.com/71596140/146775127-6628c568-e5b9-41b3-877e-5ab425b39c00.png"> <img width="305" alt="Screenshot 2021-12-20 at 7 05 31 PM" src="https://user-images.githubusercontent.com/71596140/146775296-84b394c9-96bf-4aae-ad41-188f9b548724.png"> <img width="304" alt="Screenshot 2021-12-20 at 7 06 04 PM" src="https://user-images.githubusercontent.com/71596140/146775374-e5f18c7c-1a6e-4d5c-88d0-94befe2bf68a.png"> <img width="304" alt="Screenshot 2021-12-20 at 7 06 22 PM" src="https://user-images.githubusercontent.com/71596140/146775420-ac7fe06b-b4fe-40b4-8f79-88b2c6ab04c8.png"> <img width="307" alt="Screenshot 2021-12-20 at 7 04 57 PM" src="https://user-images.githubusercontent.com/71596140/146775211-10cb2bbd-3446-463f-aa7c-6d9024cc7fbe.png"> <img width="305" alt="Screenshot 2021-12-20 at 7 06 57 PM" src="https://user-images.githubusercontent.com/71596140/146775478-c645e2dd-f222-44bf-ba69-cabab29072f4.png">
+<img width="307" alt="Screenshot 2021-12-20 at 7 02 45 PM" src="https://user-images.githubusercontent.com/71596140/146774901-930bfccc-2cf3-4107-b484-d2eb661e0592.png"> <img width="307" alt="Screenshot 2021-12-20 at 7 03 33 PM" src="https://user-images.githubusercontent.com/71596140/146775006-af01ee19-fc05-44e0-a091-2166b548ea36.png"> <img width="305" alt="Screenshot 2021-12-20 at 7 04 22 PM" src="https://user-images.githubusercontent.com/71596140/146775127-6628c568-e5b9-41b3-877e-5ab425b39c00.png"> <img width="305" alt="Screenshot 2021-12-20 at 7 05 31 PM" src="https://user-images.githubusercontent.com/71596140/146775296-84b394c9-96bf-4aae-ad41-188f9b548724.png"> <img width="304" alt="Screenshot 2021-12-20 at 7 06 04 PM" src="https://user-images.githubusercontent.com/71596140/146775374-e5f18c7c-1a6e-4d5c-88d0-94befe2bf68a.png"> <img width="304" alt="Screenshot 2021-12-20 at 7 06 22 PM" src="https://user-images.githubusercontent.com/71596140/146775420-ac7fe06b-b4fe-40b4-8f79-88b2c6ab04c8.png"> <img width="307" alt="Screenshot 2021-12-20 at 7 04 57 PM" src="https://user-images.githubusercontent.com/71596140/146775211-10cb2bbd-3446-463f-aa7c-6d9024cc7fbe.png"> <img width="305" alt="Screenshot 2021-12-20 at 7 06 57 PM" src="https://user-images.githubusercontent.com/71596140/146775478-c645e2dd-f222-44bf-ba69-cabab29072f4.png"> <img width="385" alt="Screenshot 2021-12-25 at 1 06 19 AM" src="https://user-images.githubusercontent.com/71596140/147370364-8b57b67b-13d3-4873-95d0-58a2ce222e00.png">
+
 
