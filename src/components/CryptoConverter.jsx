@@ -19,15 +19,15 @@ const CryptoConverter = () => {
 
         const options = {
             method: 'GET',
-            url: 'https://alpha-vantage.p.rapidapi.com/query',
+            url: '',
             params: {
                 from_currency: chosenPrimaryCurrency, 
                 function: 'CURRENCY_EXCHANGE_RATE', 
                 to_currency: chosenSecondaryCurrency
             },
             headers: {
-                'x-rapidapi-host': 'alpha-vantage.p.rapidapi.com',
-                'x-rapidapi-key': 'bcb0a31f39msh21afb09ab87fc27p18bd37jsndfa1d6c3560a'
+                'x-rapidapi-host': '',
+                'x-rapidapi-key': process.env.REACT_APP_RAPID_API_KEY
             }
         };
 
