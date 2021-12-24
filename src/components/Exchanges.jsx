@@ -35,7 +35,7 @@ const Exchanges = () => {
                 header={(
                   <Row key={exchange.id}>
                     <Col span={6}>
-                      <Text><strong>{exchange.rank-1}.</strong></Text>
+                      <Text><strong>{exchange.rank}.</strong></Text>
                       <Avatar className="exchange-image" src={exchange.iconUrl} />
                       <Text><strong>{exchange.name}</strong></Text>
                     </Col>

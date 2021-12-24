@@ -424,3 +424,49 @@ a:hover {
   padding: 20px;
   align-items: center;
 }
+
+.currency-converter {
+  font-weight: bold;
+  background-color: rgb(230, 223, 211);
+  padding: 30px;
+  margin: 50px;
+  margin-bottom: 500px;
+  box-shadow: 0 3px 10px rgb(0 0 0 / 0.2);
+  text-align: center;
+}
+
+.exchange-rate {
+  background-color: rgb(221, 230, 221);
+  padding: 20px;
+  margin-top: 10px;
+  box-shadow: 0 3px 10px rgb(0 0 0 / 0.2);
+  border-radius: 10px;
+}
+
+.input-box {
+  background-color: rgb(218, 227, 238);
+  padding: 40px;
+  border-radius: 10px;
+  box-shadow: 0 3px 10px rgb(0 0 0 / 0.2);
+}
+
+button {
+  border: none;
+  float: right;
+  margin: 2px;
+  padding: 3px;
+  border-radius: 5px;
+  border: 1px solid black;
+  font-weight: bold;
+}
+
+button:hover {
+  background-color: #3eb489;
+}
+
+input, select {
+  border: 1px solid black;
+  border-radius: 5px;
+  padding: 1px;
+}
+
